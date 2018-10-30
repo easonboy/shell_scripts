@@ -1,4 +1,4 @@
-
+#!/bin/bash
 mysql_menu() {
 cat <<EOF
 Please select mysql verson
