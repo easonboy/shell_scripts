@@ -7,4 +7,4 @@
 
 3，jenkins_exec_cmd.sh   jenkins自由风格创建maven项目
 
-4,install_mysql_2018.sh	 mysql安装（2个版本）
+4，install_mysql_2018.sh	 mysql安装（2个版本）
